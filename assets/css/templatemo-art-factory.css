@@ -220,7 +220,7 @@ a.main-button-slider {
   font-size: 13px;
   border-radius: 20px;
   padding: 12px 20px;
-  background-color: #f55858;
+  background-color: #ff9900;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 0.25px;
@@ -231,14 +231,14 @@ a.main-button-slider {
 }
 
 a.main-button-slider:hover {
-  background-color: #0088e8;
+  background-color: #8e5ae2;
 }
 
 a.main-button {
   font-size: 13px;
   border-radius: 20px;
   padding: 12px 20px;
-  background-color: #00b4c6;
+  background-color: #8e5ae2;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 0.25px;
@@ -249,7 +249,7 @@ a.main-button {
 }
 
 a.main-button:hover {
-  background-color: #0088e8;
+  background-color: #ff9900;
 }
 
 button.main-button {
@@ -270,7 +270,7 @@ button.main-button {
 }
 
 button.main-button:hover {
-  background-color: #0088e8;
+  background-color: #ffae00;
 }
 
 .section-heading h2 {
@@ -721,7 +721,7 @@ welcome
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../images/banner-bg.png);
+  background-image: url(../images/Designsemnome.png);
   background-repeat: no-repeat;
 /*
 TRY IT ... with or without CENTER CENTER
@@ -1376,7 +1376,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(145deg, #00b4c6 0%, #0088e8 100%);
+  background-image: linear-gradient(145deg, #ff9900 0%, #ff9b06 100%);
   left: 0;
   right: 0;
   top: 0;
