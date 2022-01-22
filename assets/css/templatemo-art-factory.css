@@ -909,43 +909,43 @@ services
 #services {
   position: relative;
   padding: 120px 0px 90px 0px;
-  background: rgba(0, 136, 232, 1);
+  background: rgb(103, 34, 231);
   background: -moz-linear-gradient(
     -45deg,
-    rgba(0, 136, 232, 1) 0%,
-    rgba(0, 182, 198, 1) 0%,
-    rgba(0, 136, 232, 1) 100%
+    rgb(104, 35, 231) 0%,
+    rgb(142, 0, 198) 0%,
+    rgb(120, 0, 232) 100%
   );
   background: -webkit-gradient(
     left top,
     right bottom,
-    color-stop(0%, rgba(0, 136, 232, 1)),
-    color-stop(0%, rgba(0, 182, 198, 1)),
-    color-stop(100%, rgba(0, 136, 232, 1))
+    color-stop(0%, rgb(128, 0, 232)),
+    color-stop(0%, rgb(142, 0, 198)),
+    color-stop(100%, rgb(128, 0, 232))
   );
   background: -webkit-linear-gradient(
     -45deg,
-    rgba(0, 136, 232, 1) 0%,
-    rgba(0, 182, 198, 1) 0%,
-    rgba(0, 136, 232, 1) 100%
+    rgb(138, 100, 168) 0%,
+    rgb(168, 127, 202) 0%,
+    rgb(139, 76, 190) 100%
   );
   background: -o-linear-gradient(
     -45deg,
-    rgba(0, 136, 232, 1) 0%,
-    rgba(0, 182, 198, 1) 0%,
-    rgba(0, 136, 232, 1) 100%
+    rgba(128, 0, 232, 1) 0%,
+    rgb(136, 76, 185) 0%,
+    rgba(128, 0, 232, 1) 100%
   );
   background: -ms-linear-gradient(
     -45deg,
-    rgba(0, 136, 232, 1) 0%,
-    rgba(0, 182, 198, 1) 0%,
-    rgba(0, 136, 232, 1) 100%
+    rgb(186, 151, 214) 0%,
+    rgba(128, 0, 232, 1) 0%,
+    rgba(128, 0, 232, 1) 100%
   );
   background: linear-gradient(
     135deg,
-    rgba(0, 136, 232, 1) 0%,
-    rgba(0, 182, 198, 1) 0%,
-    rgba(0, 136, 232, 1) 100%
+    rgba(128, 0, 232, 1) 0%,
+    rgb(134, 74, 184) 0%,
+    rgb(145, 80, 199) 100%
   );
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0088e8', endColorstr='#0088e8', GradientType=1 );
 }
@@ -972,7 +972,7 @@ services
 
 .service-item:hover .icon,
 .service-item:hover a.main-button {
-  background-color: #0088e8;
+  background-color: #b04bdf;
 }
 
 .service-item .icon {
@@ -987,7 +987,7 @@ services
   margin: auto;
   position: relative;
   margin-bottom: 30px;
-  background: #00b4c6;
+  background: #ff9137;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
